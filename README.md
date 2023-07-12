@@ -1,4 +1,4 @@
-# nordbot
+# Nord - LUA Discord Bot
 
 ## Discordia
 Do poprawnego działania bota użyj biblioteki Discordia.
